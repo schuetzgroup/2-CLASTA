@@ -37,7 +37,7 @@ For more detailed information, please refer to the manual "2-CLASTA_plugin_manua
 
 References
 ----------
-<a name="Schneider2022"></a>[1] Arnold, A.M; Schneider, M.C. et al. (2020):
+<a name="ArnoldSchneider2020"></a>[1] Arnold, A.M; Schneider, M.C. et al. (2020):
   “Verifying molecular clusters by 2-color localization microscopy and significance testing.”
   In: Scientific Reports, 10.1 (2020).
   Available at: [DOI: 10.1038/s41598-020-60976-6](https://doi.org/10.1038/s41598-020-60976-6)
