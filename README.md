@@ -1,6 +1,8 @@
 # 2-CLASTA
 2-CLASTA is an ImageJ plugin to analyze localization data from 2-color SMLM experiments.
 
+This repository contains code implementing methods described in reference [1]. Please cite the corresponding paper if you use code from this repository.
+
 
 ## Quick guide to use 2-CLASTA plugin in ImageJ
 For more detailed information, please refer to the manual "2-CLASTA_plugin_manual.pdf"
@@ -31,3 +33,11 @@ For more detailed information, please refer to the manual "2-CLASTA_plugin_manua
    of your choice.
 
 10) The button 'Close' terminates the plugin window.
+
+
+References
+----------
+<a name="Schneider2022"></a>[1] Arnold, A.M; Schneider, M.C. et al. (2020):
+  “Verifying molecular clusters by 2-color localization microscopy and significance testing.”
+  In: Scientific Reports, 10.1 (2020).
+  Available at: [DOI: 10.1038/s41598-020-60976-6](https://doi.org/10.1038/s41598-020-60976-6)
